@@ -65,12 +65,11 @@ public class ApiController {
             e.printStackTrace();
         }
 
-      // System.out.println(List.of(webui_list,title_list));
+
 
 
         return webui_list;
 
-       // return webui_list;
 
 
 
